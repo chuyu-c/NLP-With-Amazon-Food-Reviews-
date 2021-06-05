@@ -36,6 +36,9 @@ Key questions to address after completion of this project:
   4. XGBoost & CNN
 
 ## Reference
-1. TEXT PREPROCESSING USING PYTHON https://www.kaggle.com/shashanksai/text-preprocessing-using-python
-2. Practical Text Classification With Python and Keras https://realpython.com/python-keras-text-classification/#your-first-keras-model
-3. Exploratory Data Analysis https://www.kaggle.com/kanavbansal/exploratory-data-analysis
+1. TEXT PREPROCESSING USING PYTHON  
+https://www.kaggle.com/shashanksai/text-preprocessing-using-python
+2. Practical Text Classification With Python and Keras   
+https://realpython.com/python-keras-text-classification/#your-first-keras-model
+3. Exploratory Data Analysis  
+https://www.kaggle.com/kanavbansal/exploratory-data-analysis
